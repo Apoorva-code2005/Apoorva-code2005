@@ -12,8 +12,6 @@
 <a href="mailto:appuapoorvagg@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Apoorva-code2005&style=for-the-badge&color=blue)
-
 </div>
 
 ---
@@ -83,7 +81,6 @@ I enjoy building software that combines AI, embedded systems, and cloud technolo
 - Backend Engineering
 - Docker
 - Kubernetes
-- AWS
 
 ---
 
