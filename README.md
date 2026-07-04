@@ -4,11 +4,11 @@
 
 ### Computer Science Engineering Student @ RV College of Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=AI+%7C+Computer+Vision+%7C+IoT;Full+Stack+Developer;Building+Technology+That+Solves+Real+Problems;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=AI+%7C+Computer+Vision+%7C+IoT;Full+Stack+Developer;Building+Technology+That+Matters" alt="Typing SVG"/>
 
 <p>
 <a href="https://github.com/Apoorva-code2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/apoorva-g-g-43a450330?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
 
@@ -130,7 +130,7 @@ Currently preparing for Software Engineering internships and full-time opportuni
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/apoorva-g-g-43a450330?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
